@@ -1,0 +1,8 @@
+g1 = int(input('1 число:'))
+g2 = int(input('2 число:'))
+print(g1 + g2)
+print(g1 - g2)
+print(g1 * g2)
+print(g1 / g2)
+print(g1 ** g2)
+print(g1 // g2)
